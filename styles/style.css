@@ -70,7 +70,7 @@
     font-weight: 700;
     font-size: 40px;
     line-height: 47px;
-    color: #444343;
+    color:#151414;
     padding-top: 200px;
 }
 
@@ -84,7 +84,7 @@
 }
 
 .failure-description .description {
-    color: #444343;
+    color: #151414;
 }
 
 .slogan {
