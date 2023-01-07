@@ -55,6 +55,7 @@
     font-size: 65px;
     line-height: 76px;
 }
+/* Banner-styles end */
 /* failure-styles */
 
 .failure-contents {
@@ -97,6 +98,8 @@
 .slogan i {
     color: #0CF25D;
 }
+/* failure-styles-end */
+
 /* Plans-Style*/
 
 .plans {
@@ -134,6 +137,7 @@
     text-align: center;
     color: #737272;
 }
+/* plans-style end */
 /* Contact-Styles */
 
 .contact {
@@ -159,3 +163,81 @@
     line-height: 47px;
     color: #FFFFFF;
 }
+/* contact-styles-end */
+/* footer-styles */
+
+.footer-section {
+    background: #151414;
+    color: #F8F8F8;
+}
+
+.footer-content {
+    display: flex;
+    justify-content: center;
+    gap: 450px;
+    padding: 130px 0;
+}
+
+.footer-description {
+    width: 500px;
+}
+
+.subscribe {
+    width: 500px;
+}
+
+.footer-title {
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 53px;
+}
+
+.mail {
+    padding-top: 24px;
+}
+
+.phone {
+    padding-top: 16px;
+    padding-bottom: 30px;
+}
+
+.social-link a {
+    padding-right: 20px;
+}
+
+.subscribe-title {
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 29px;
+    padding-bottom: 30px;
+}
+
+.subscribe input {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 150px;
+    color: #F8F8F8;
+    border: 2px solid #F8F8F8;
+    border-radius: 8px;
+    background-color: #151414;
+}
+
+.subscribe input::placeholder {
+    color: #F8F8F8;
+    font-size: 16px;
+}
+
+.btn-subscribe {
+    background-color: #005FAC;
+    border-radius: 8px;
+    border: none;
+    padding: 20px 25px;
+    font-weight: 600;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    color: #F8F8F8;
+    margin-top: 32px;
+}
+/* footer-styles-end */
